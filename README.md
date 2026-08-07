@@ -24,7 +24,7 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kaptandanuj-55&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=ff4d4d&icon_color=ff4d4d&text_color=c0c0c0&bg_color=0d1117&hide_rank=true" height="180" style="vertical-align: middle;"/>
   
   <!-- Niko Bellic image replacing A+ badge -->
-  <img src="./niko-bellic.jpg" height="120" style="vertical-align: middle; border-radius: 50%;" alt="Niko Bellic"/>
+  <img src="./Screenshot 2026-08-07 171406.png" height="120" style="vertical-align: middle; border-radius: 50%;" alt="Niko Bellic"/>
   
   <!-- Top Languages Card -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kaptandanuj-55&layout=compact&theme=dark&hide_border=true&title_color=ff4d4d&text_color=c0c0c0&bg_color=0d1117" height="180" style="vertical-align: middle;"/>
