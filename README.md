@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>Hey Its Me Kaptan Danuj Welcome To Github</h1>
+  <h1><b>🚀 Hey, It's Me Kaptan Danuj | Welcome To GitHub <img width="480" height="264" alt="SekiroShadowsDieTwiceWolfGIF" src="https://github.com/user-attachments/assets/f8d196ce-8441-43e8-a34a-71ddb47ab009" />
+</b></h1>
   <p><em>"Hesitation Is Defeat!!!"</em></p>
   
   <!-- High Quality Ezgif Local File -->
@@ -10,13 +11,18 @@
   <!-- GTA 4 Banner Image -->
   <img src="./eminem.jpg" width="200" alt="GTA 4 Banner"/>
 </div>
-<div>
-Core Areas(Languages): Java, Python, C++, Javascript 
-Backend & DB : Spring Boot, MySQL, Hibernate, H2-console 
-Tools: Git, Docker, VS Code
-</div>
----
 
+<br/>
+
+<div align="center">
+
+  <b>🔹 Core Areas (Languages):</b> `Java` • `Python` • `C++` • `JavaScript`<br/>
+  <b>🔹 Backend & DB:</b> `Spring Boot` • `MySQL` • `Hibernate` • `H2-console`<br/>
+  <b>🔹 Tools & Platforms:</b> `Git` • `Docker` • `VS Code`
+
+</div>
+
+---
 
 <div align="center">
   <!-- GitHub Stats Card without rank ring -->
