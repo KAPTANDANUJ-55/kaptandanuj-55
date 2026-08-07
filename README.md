@@ -7,7 +7,8 @@
 
   <br/><br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30,40&height=120&section=header"/>
+  <!-- GTA 4 Banner Image -->
+  <img src="./gta4.avif" width="600" alt="GTA 4 Banner"/>
 </div>
 
 ### 🛡️ Spartan Arsenal (Tech Stack)
