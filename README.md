@@ -10,11 +10,11 @@
   <!-- GTA 4 Banner Image -->
   <img src="./eminem.jpg" width="200" alt="GTA 4 Banner"/>
 </div>
-
- Core Areas(Languages): Java, Python, C++, Javascript
+<div>
+Core Areas(Languages): Java, Python, C++, Javascript 
 Backend & DB : Spring Boot, MySQL, Hibernate, H2-console 
 Tools: Git, Docker, VS Code
-
+</div>
 ---
 
 
