@@ -2,8 +2,8 @@
   <h1>⚔️ KAIZEN // KRATOS OF WAR ⚔️</h1>
   <p><em>"The cycle ends here. We must be better than this."</em></p>
   
-  <!-- Kratos GIF -->
-  <img src="https://media.tenor.com/2s_mF6EEDxAAAAAC/kratos-god-of-war.gif" width="550" alt="Kratos God of War"/>
+ 
+  <img src="https://media.giphy.com/media/C5cDXxEgTOdpS/giphy.gif" width="550" alt="Kratos God of War"/>
 
   <br/><br/>
 
