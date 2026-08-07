@@ -1,6 +1,5 @@
 <div align="center">
-  <h1><b>🚀 Hey, It's Me Kaptan Danuj | Welcome To GitHub <img width="512" height="509" alt="sticker" src="https://github.com/user-attachments/assets/35619250-effd-45e0-b877-9a94f87a974c" />
-</b></h1>
+  <h1><b>🚀 Hey, It's Me Kaptan Danuj | Welcome To GitHub</b></h1>
   <p><em>"Hesitation Is Defeat!!!"</em></p>
   
   <!-- High Quality Ezgif Local File -->
@@ -18,7 +17,7 @@
 
   <b>🔹 Core Areas (Languages):</b> `Java` • `Python` • `C++` • `JavaScript`<br/>
   <b>🔹 Backend & DB:</b> `Spring Boot` • `MySQL` • `Hibernate` • `H2-console`<br/>
-  <b>🔹 Tools & Platforms:</b> `Git` • `Docker` • `VS Code`
+  <b>🔹 Tools & Platforms:</b> `Git` <img src="https://github.com/user-attachments/assets/35619250-effd-45e0-b877-9a94f87a974c" width="20" height="20" alt="CJ" valign="middle"/> • `Docker` • `VS Code`
 
 </div>
 
