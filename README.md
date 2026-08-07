@@ -8,7 +8,7 @@
   <br/><br/>
 
   <!-- GTA 4 Banner Image -->
-  <img src="./gta4.avif" width="600" alt="GTA 4 Banner"/>
+  <img src="./eminem.jpg" width="600" alt="GTA 4 Banner"/>
 </div>
 
 ### 🛡️ Spartan Arsenal (Tech Stack)
