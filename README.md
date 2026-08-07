@@ -3,7 +3,7 @@
   <p><em>"The cycle ends here. We must be better than this."</em></p>
   
   <!-- Uploaded Local GIF -->
-  <img src="./god%20of%20war%20GIF.gif" width="550" alt="Kratos God of War Ragnarok"/>
+  <img src="./KRATOS.mp4" width="550" alt="Kratos God of War Ragnarok"/>
 
   <br/><br/>
 
