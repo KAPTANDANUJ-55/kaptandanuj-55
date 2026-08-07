@@ -20,8 +20,8 @@
 
 ### 📊 Spartan Combat Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaptandanuj-55&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=ff4d4d&icon_color=ff4d4d&text_color=c0c0c0&bg_color=0d1117" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaptandanuj-55&layout=compact&theme=dark&hide_border=true&title_color=ff4d4d&text_color=c0c0c0&bg_color=0d1117" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kaptandanuj-55&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=ff4d4d&icon_color=ff4d4d&text_color=c0c0c0&bg_color=0d1117" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kaptandanuj-55&layout=compact&theme=dark&hide_border=true&title_color=ff4d4d&text_color=c0c0c0&bg_color=0d1117" height="180"/>
 </div>
 
 <br/>
