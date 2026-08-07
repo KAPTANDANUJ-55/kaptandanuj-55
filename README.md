@@ -2,8 +2,8 @@
   <h1>⚔️ KAIZEN // KRATOS OF WAR ⚔️</h1>
   <p><em>"The cycle ends here. We must be better than this."</em></p>
   
-  <!-- Uploaded Local GIF -->
-  <img src="./KRATOS.mp4" width="550" alt="Kratos God of War Ragnarok"/>
+  <!-- MP4 Video Player -->
+  <video src="./KRATOS.mp4" width="550" autoplay loop muted playsinline controls></video>
 
   <br/><br/>
 
