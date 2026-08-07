@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>⚔️ KAIZEN // KRATOS OF WAR ⚔️</h1>
-  <p><em>"The cycle ends here. We must be better than this."</em></p>
+  <h1>Hey Its Me Kaptan Danuj Welcome To Github</h1>
+  <p><em>"Hesitation Is Defeat!!!"</em></p>
   
   <!-- High Quality Ezgif Local File -->
   <img src="./god-of-war-ragnarok.1920x1080-ezgif.com-video-to-gif-converter.gif" width="600" alt="Kratos God of War Ragnarok"/>
@@ -11,14 +11,13 @@
   <img src="./eminem.jpg" width="200" alt="GTA 4 Banner"/>
 </div>
 
-### 🛡️ Spartan Arsenal (Tech Stack)
-* **Weapons of Choice (Languages):** Java, Python, C++
-* **The Realm (Backend & DB):** Spring Boot, MySQL, Hibernate
-* **Blades of Chaos (Tools):** Git, Linux, Docker, VS Code
+ Core Areas(Languages): Java, Python, C++, Javascript
+Backend & DB : Spring Boot, MySQL, Hibernate, H2-console 
+Tools: Git, Docker, VS Code
 
 ---
 
-### 📊 Spartan Combat Stats
+
 <div align="center">
   <!-- GitHub Stats Card without rank ring -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kaptandanuj-55&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=ff4d4d&icon_color=ff4d4d&text_color=c0c0c0&bg_color=0d1117&hide_rank=true" height="180" align="center"/>
