@@ -6,13 +6,6 @@
   <img src="./god-of-war-ragnarok.1920x1080-ezgif.com-video-to-gif-converter.gif" width="600" alt="Kratos God of War Ragnarok"/>
 
   <br/><br/>
-
-  <!-- GTA 4 Banner Image -->
-  <img src="./eminem.jpg" width="200" alt="GTA 4 Banner"/>
-</div>
-
-<br/>
-
 <div align="center">
 
   <b>🔹 Core Areas (Languages):</b> `Java` • `Python` • `C++` • `JavaScript`<br/>
@@ -20,6 +13,13 @@
   <b>🔹 Tools & Platforms:</b> `Git` • `Docker` • `VS Code`
 
 </div>
+  <!-- GTA 4 Banner Image -->
+  <img src="./eminem.jpg" width="200" alt="GTA 4 Banner"/>
+</div>
+
+<br/>
+
+
 
 ---
 
