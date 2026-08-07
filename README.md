@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><b>🚀 Hey, It's Me Kaptan Danuj | Welcome To GitHub <img width="480" height="264" alt="SekiroShadowsDieTwiceWolfGIF" src="https://github.com/user-attachments/assets/f8d196ce-8441-43e8-a34a-71ddb47ab009" />
+  <h1><b>🚀 Hey, It's Me Kaptan Danuj | Welcome To GitHub <img width="512" height="509" alt="sticker" src="https://github.com/user-attachments/assets/35619250-effd-45e0-b877-9a94f87a974c" />
 </b></h1>
   <p><em>"Hesitation Is Defeat!!!"</em></p>
   
