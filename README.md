@@ -2,7 +2,7 @@
   <h1>⚔️ KAIZEN // KRATOS OF WAR ⚔️</h1>
   <p><em>"The cycle ends here. We must be better than this."</em></p>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30,40&height=120&section=header"/>
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30,40&height=120&section=header](https://tenor.com/en-GB/view/kratos-god-of-war-ragnarok-meme-perfect-gif-27213960)"/>
 </div>
 
 ### 🛡️ Spartan Arsenal (Tech Stack)
