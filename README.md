@@ -2,7 +2,12 @@
   <h1>⚔️ KAIZEN // KRATOS OF WAR ⚔️</h1>
   <p><em>"The cycle ends here. We must be better than this."</em></p>
   
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30,40&height=120&section=header](https://tenor.com/en-GB/view/kratos-god-of-war-ragnarok-meme-perfect-gif-27213960)"/>
+  <!-- Kratos GIF -->
+  <img src="https://media.tenor.com/2s_mF6EEDxAAAAAC/kratos-god-of-war.gif" width="550" alt="Kratos God of War"/>
+
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30,40&height=120&section=header"/>
 </div>
 
 ### 🛡️ Spartan Arsenal (Tech Stack)
@@ -18,9 +23,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaptandanuj-55&layout=compact&theme=dark&hide_border=true&title_color=ff4d4d&text_color=c0c0c0&bg_color=0d1117" height="180"/>
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaptandanuj-55&theme=dark&hide_border=true&ring=ff4d4d&fire=ff4d4d&sideNums=c0c0c0&sideLbl=c0c0c0&dates=c0c0c0&background=0d1117"/>
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=40,30,20,12&height=100&section=footer"/>
