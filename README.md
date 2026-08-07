@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
+  <h1>⚔️ KAIZEN // KRATOS OF WAR ⚔️</h1>
+  <p><em>"The cycle ends here. We must be better than this."</em></p>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30,40&height=120&section=header"/>
+</div>
 
-<!--
-**KAPTANDANUJ-55/kaptandanuj-55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ Spartan Arsenal (Tech Stack)
+* **Weapons of Choice (Languages):** Java, Python, C++
+* **The Realm (Backend & DB):** Spring Boot, MySQL, Hibernate
+* **Blades of Chaos (Tools):** Git, Linux, Docker, VS Code
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Spartan Combat Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaptandanuj-55&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=ff4d4d&icon_color=ff4d4d&text_color=c0c0c0&bg_color=0d1117" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaptandanuj-55&layout=compact&theme=dark&hide_border=true&title_color=ff4d4d&text_color=c0c0c0&bg_color=0d1117" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaptandanuj-55&theme=dark&hide_border=true&ring=ff4d4d&fire=ff4d4d&sideNums=c0c0c0&sideLbl=c0c0c0&dates=c0c0c0&background=0d1117"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=40,30,20,12&height=100&section=footer"/>
+</div>
