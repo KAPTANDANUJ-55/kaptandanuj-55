@@ -19,17 +19,17 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaptandanuj-55&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=ff4d4d&icon_color=ff4d4d&text_color=c0c0c0&bg_color=0d1117&hide_rank=true" height="180" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kaptandanuj-55&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=ff4d4d&icon_color=ff4d4d&text_color=c0c0c0&bg_color=0d1117&hide_rank=true&cache_seconds=1800" height="165" />
   
-  <img src="./Screenshot%202026-08-07%20171406.png" height="150" align="center" alt="Niko Bellic"/>
+  <img src="./Screenshot%202026-08-07%20171406.png" height="150" alt="Niko Bellic"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaptandanuj-55&layout=compact&theme=dark&hide_border=true&title_color=ff4d4d&text_color=c0c0c0&bg_color=0d1117" height="180" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaptandanuj-55&layout=compact&theme=dark&hide_border=true&title_color=ff4d4d&text_color=c0c0c0&bg_color=0d1117&cache_seconds=1800" height="165" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kaptandanuj-55&theme=dark&hide_border=true&ring=ff4d4d&fire=ff4d4d&sideNums=c0c0c0&sideLbl=c0c0c0&dates=c0c0c0&background=0d1117" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=kaptandanuj-55&theme=dark&hide_border=true&ring=ff4d4d&fire=ff4d4d&sideNums=c0c0c0&sideLbl=c0c0c0&dates=c0c0c0&background=0d1117" alt="GitHub Streak"/>
 </div>
 
 <br/>
